@@ -24,7 +24,8 @@ If there are any issues with loading recipe images, the application displays an 
   
 The GUI is designed to be visually appealing and easy to use, making it accessible to users of all levels of culinary expertise.
 # VISUAL REPRESENTATION 
-<img width="1440" alt="Screenshot 2023-10-05 at 6 38 09 AM" src="https://github.com/SylvieNdifor/MyRecipeFinder/assets/147012281/f4a3450f-befe-4142-9297-36932e03fc38">
+![Screenshot 2023-10-05 at 6 38 09 AM](https://github.com/SylvieNdifor/MyRecipeFinder/assets/147012281/828fb6bf-5e41-45c3-aa4d-3e389bf3c6fc)
+
 
 # CONTRIBUTIONS
 
